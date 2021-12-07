@@ -24,10 +24,10 @@ body {
     justify-content: center;
 }
 .cnt-ctr .cnt-btns > * {
-    width: 60px;
-    height: 51px;
+    width: 70px;
+    height: 60px;
     color: #ad5754;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 .cnt-ctr .cnt-btns button {
@@ -47,7 +47,7 @@ body {
     background-color: #f7eae9;
     border-top: 2px solid #e2c3c2;
     border-bottom: 2px solid #e2c3c2;
-    height: 47px;
+    height: 56px;
 }
 .cnt-ctr .cnt-btns button:hover, .cnt-ctr .cnt-btns button:active, .cnt-ctr .cnt-btns button:focus {
     cursor: pointer;
